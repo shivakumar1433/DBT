@@ -1,1 +1,2 @@
-select 1 as seq
+select 1 as seq,
+'gmail' as email
